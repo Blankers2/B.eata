@@ -5,7 +5,7 @@ https://shaded-chip-9ff.notion.site/B-eata-1e1b4a688e294510bac7bc16440c2054?pvs=
 ### 1-1. 주제
 
 <aside>
-💡 ***식품 트렌드 인텔리전스(Food Trend Intelligence)***
+💡 **식품 트렌드 인텔리전스(Food Trend Intelligence)**
 식품 인기검색어 트렌드를 기반으로 상품 정보 및 상품평 분석 결과를 제공하는 데이터 프로덕트 개발
 
 </aside>
