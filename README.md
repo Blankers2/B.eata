@@ -18,7 +18,6 @@ https://shaded-chip-9ff.notion.site/B-eata-1e1b4a688e294510bac7bc16440c2054?pvs=
 
 각 스프린트 종료 시 회고 및 미팅, 시작 미팅 진행
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/13c7ec80-34cc-459c-a734-470b4537d2d1/9defc415-bc58-4055-8aa3-03fbe39b663b/92246149-1353-4dd3-b265-c3675e7b9a9d.png)
 
 </aside>
 
